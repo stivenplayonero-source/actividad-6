@@ -1,0 +1,26 @@
+{
+  "reporte_id": "REP-2026-8941",
+  "fecha_envio": "2026-06-28T11:37:00Z",
+  "ciudadano": {
+    "nombre": "Andrés Mendoza",
+    "telefono": "+573001234567"
+  },
+  "incidencia": {
+    "categoria": "Infraestructura",
+    "subcategoria": "Bache en vía principal",
+    "descripcion": "Hay un bache profundo en el carril central que está dañando las llantas de los autos.",
+    "gravedad": "Alta"
+  },
+  "ubicacion": {
+    "direccion": "Calle 45 #12-34",
+    "barrio": "Chapinero",
+    "coordenadas": {
+      "latitud": 4.6325,
+      "longitud": -74.0664
+    }
+  },
+  "evidencias": [
+    "https://ciudad.gov",
+    "https://ciudad.gov"
+  ]
+}
